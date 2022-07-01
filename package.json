@@ -21,7 +21,7 @@
     "node-cron": "^3.0.0",
     "nodemailer": "^6.6.2",
     "nodemailer-express-handlebars": "^4.0.0",
-    "pg": "^8.6.0",
+    "pg": "^8.7.3",
     "sequelize": "^6.6.2",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.5"
@@ -61,8 +61,7 @@
   },
   "prettier": {
     "singleQuote": true,
-    "printWidth": 120
+    "printWidth": 120,
+    "semi": false
   }
-
 }
-
